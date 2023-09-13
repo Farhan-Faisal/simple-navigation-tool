@@ -1,0 +1,7 @@
+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
+
+git config --global user.email "farhan.faisal@mail.utoronto.ca"
+git config --global user.name "Farhan-Faisal"
+
+git config --global user.email "bushra1@ualberta.ca"
+git config --global user.email "Fahrin0802"
