@@ -1,0 +1,24 @@
+Name: Farhan Bin Faisal
+Title: Navigation System
+
+
+/*--------------------------Functions or methods:---------------------------------------
+Functions or methods modification:
+    - Described in function headers
+
+--------------------------------------------------------------------------------------*/
+
+/*--------------------------Running Instructions---------------------------------------
+ - In solution folder
+ --- Run make
+     or
+ --- ./server/server
+     python3 client/client.py
+--------------------------------------------------------------------------------------*/
+
+/*---------------------------Usage------------------------------------------------------
+- After running the application, a pop up map will appear
+- Click on the starting and ending locations
+- Program will display latitude and longitudes of all the waypoints in the terminal
+- To quit, simply close the plotter
+--------------------------------------------------------------------------------------*/
