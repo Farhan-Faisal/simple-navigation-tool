@@ -22,3 +22,10 @@ Functions or methods modification:
 - Program will display latitude and longitudes of all the waypoints in the terminal
 - To quit, simply close the plotter
 --------------------------------------------------------------------------------------*/
+
+
+
+https://github.com/user-attachments/assets/e34c4593-50f1-4fa1-94c6-aed3e57b19ec
+
+
+
